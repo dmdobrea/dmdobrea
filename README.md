@@ -1,11 +1,11 @@
 # Domains of interests and research areas:
-* Computational Intelligence
+* Artificial Intelligence;
+* UAVs;
 * Biomedical Engineering;
 * Brain Computer Interface Systems;
 * Bio-inspired Systems;
-* UAVs;
 * IoT;
-* Intelligent Embedded Systems
+* Intelligent Embedded Systems.
 
 # Selected publications: 
 ## Journal articles:
