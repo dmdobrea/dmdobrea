@@ -1,4 +1,4 @@
-## Domains of interests and research areas:
+# Domains of interests and research areas:
 * Computational Intelligence
 * Biomedical Engineering;
 * Brain Computer Interface Systems;
@@ -7,8 +7,8 @@
 * IoT;
 * Intelligent Embedded Systems
 
-## Selected publications: 
-# Journal articles:
+# Selected publications: 
+## Journal articles:
 1. Doru-Florin Chiper, Dan-Marius Dobrea, A Novel DST-IV Efficient Parallel Implementation with Low Arithmetic Complexity, Electronics, vol. 14, no. 21, 4137, 25 pages, October 22, 2025, eISSN: 2079-9292, DOI: 10.3390/electronics14214137, WOS: 001612506300001, revistă cotată ISI, IF (2024): 2.6 (Q2), link
 2. Dan-Marius Dobrea, Matei-Ștefan Dobrea, A versatile UAS development platform able to support a novel tracking algorithm in real-time, Aerospace, Vol. 12, No. 8, 649, 25 pages , July 22, 2025, eISSN: 2226-4310, DOI: 10.3390/aerospace12080649, WOS: 001557233900001, EID: 2-s2.0-105014481111, revistă cotată ISI, IF (2024): 2.2 (Q2), link
 3. Marius-Emanuel Obreja, Dan-Marius Dobrea, Rareș-Petru Ibănișteanu, Real-time Asphalt Pothole Detection Using the YOLOv5 Algorithm and the Nvidia Jetson Nano Embedded Board, Bulletin of the Polytechnic Institute of Iași. Electrical Engineering, Power Engineering, Electronics Section, Vol. 69 (73), No. 4, pp. 57-67, December 2025, DOI: 10.2478/bipie-2023-0022, eISSN 2537-2726, link
