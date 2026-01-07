@@ -32,6 +32,7 @@
 
 # Member of editorial boards of journals
 *	Guest Editor, Axioms (ISSN 2075-1680, IF = 2.0), [Advances in Mathematical Methods in Signal Processing and Its Applications](https://www.mdpi.com/journal/axioms/special_issues/T0RUGJMQI3);
+*	Guest Editor, Axioms (ISSN 2075-1680, IF = 2.0), <a href="https://www.mdpi.com/journal/axioms/special_issues/T0RUGJMQI3" target="_blank">Advances in Mathematical Methods in Signal Processing and Its Applications</a>;
 *	Editor Bulletin of the Polytechnic Institute of Iași. Electrical Engineering. Power Engineering. Electronics Section, 2023-present.
 
 
