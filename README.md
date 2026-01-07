@@ -29,6 +29,12 @@
 * I took 2nd place in the international competition “The Innovact Awards for Innovation”, **2005** organized by the European Union through the European Commission and the European Foundation for Management Development, which took place on October 4-5, 2005, Reims, France, during the tenth edition of the Innovact forum (European forum for innovative growth companies).
 * Diploma of merit awarded by the Steering Committee of the Romanian Society of Fuzzy Systems, September 27, **2000** for “Outstanding research results”.
 
+
+# Member of editorial boards of journals
+*	Guest Editor, Axioms (ISSN 2075-1680, IF = 2.0), [Advances in Mathematical Methods in Signal Processing and Its Applications](https://www.mdpi.com/journal/axioms/special_issues/T0RUGJMQI3);
+*	Editor Bulletin of the Polytechnic Institute of Iași. Electrical Engineering. Power Engineering. Electronics Section, 2023-present.
+
+
 <!--
 **dmdobrea/dmdobrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
