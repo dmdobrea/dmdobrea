@@ -14,9 +14,15 @@
    * [Research Gate](https://www.researchgate.net/profile/Dan_Dobrea)
 
 # Awards:
-* 1st place, in the international [Pervasive AI Developer Contest](https://www.hackster.io/contests/amd2023), organized by AMD Inc., 2024, Robotics AI, project title: [“An autonomous shieldUAV to protect and save lives”](https://www.hackster.io/520087/an-autonomous-shielduav-to-protect-and-save-lives-99a722)
-* 1st place, in the international competition [HoverGames Challenge 3: Land, Sky, Food Supply](https://www.hackster.io/contests/nxp-hovergames-challenge-3), organized by NXP Semiconductors, 2023, project title: [“agriHoverGames – a smart drone that solves farmers' problems”](https://www.hackster.io/mdobrea/agrihovergames-a-smart-drone-that-solves-farmers-problems-dfa239)
-* "Constantin Budeanu" Award of the Romanian Academy, December 19, 2006
+* 1st place, in the international [Pervasive AI Developer Contest](https://www.hackster.io/contests/amd2023), organized by AMD Inc., **2024**, Robotics AI, project title: [“An autonomous shieldUAV to protect and save lives”](https://www.hackster.io/520087/an-autonomous-shielduav-to-protect-and-save-lives-99a722)
+* 1st place, in the international competition [HoverGames Challenge 3: Land, Sky, Food Supply](https://www.hackster.io/contests/nxp-hovergames-challenge-3), organized by NXP Semiconductors, **2023**, project title: [“agriHoverGames – a smart drone that solves farmers' problems”](https://www.hackster.io/mdobrea/agrihovergames-a-smart-drone-that-solves-farmers-problems-dfa239)
+* 2nd place, in the international competition [HoverGames Challenge 2: Help Drones, Help Others During Pandemics](https://www.hackster.io/contests/hovergames2), organized by NXP Semiconductors, **2021**, project title: [“A HoverGames Drone to Sustain a Quarantine Zone”](https://www.hackster.io/mdobrea/a-hovergames-drone-to-sustain-a-quarantine-zone-23729a)
+* 1st place, in the international competition [HoverGames Challenge 1: Fight Fire with Flyers](https://www.hackster.io/contests/hovergames), organized by NXP Semiconductors, **2020**, project title: [“A Video Warning HoverGames Drone to Fight with the Fire”](https://www.hackster.io/mdobrea/a-video-warning-hovergames-drone-to-fight-with-the-fire-33cfbd)
+* “Most Practical Real World Application” award in the international competition [“Revolutionize Your IoT Prototyping with NXP”](https://www.hackster.io/contests/rapid-iot#category-276), **2019**, project title: ["A Guardian Angel (gAngel) for the Indoor Generation"](https://www.hackster.io/mdobrea/a-guardian-angel-gangel-for-the-indoor-generation-a38960).
+* "Constantin Budeanu" Award of the Romanian Academy, December 19, **2006**.
+* I took 2nd place in the international competition “The Innovact Awards for Innovation”, **2005** organized by the European Union through the European Commission and the European Foundation for Management Development, which took place on October 4-5, 2005, Reims, France, during the tenth edition of the Innovact forum (European forum for innovative growth companies).
+* Diploma of merit awarded by the Steering Committee of the Romanian Society of Fuzzy Systems, September 27, **2000** for “Outstanding research results”.
+
 <!--
 **dmdobrea/dmdobrea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
