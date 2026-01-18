@@ -17,6 +17,7 @@
 
 # Research center:
 Executive Coordinator for "Research Center for Intelligent Systems and Applied Electronics" - CERFS (Center of Excellence)
+
 Coordonator executiv „Centrul de cercetare în Sisteme Inteligente şi Electronică Aplicată” - CERFS (Centru de Excelenta)
 
 
