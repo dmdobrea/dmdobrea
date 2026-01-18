@@ -7,11 +7,18 @@
 * IoT;
 * Intelligent Embedded Systems.
 
+
 # Research publications: 
 * 90+ publications
 * Conference papers, journal articles, books, patents:
    * [Google Scholar](https://scholar.google.com/citations?hl=en&user=omKficUAAAAJ)
    * [Research Gate](https://www.researchgate.net/profile/Dan_Dobrea)
+
+
+# Research center:
+Executive Coordinator for "Research Center for Intelligent Systems and Applied Electronics" - CERFS (Center of Excellence)
+Executive Coordinator for "Research Center for Intelligent Systems and Applied Electronics" - CERFS (Center of Excellence)
+
 
 # Invited speaker:
 * Featured speaker at [Impact Spotlights: smart agriculture & sustainable farming](https://www.hackster.io/videos/1710) (37:54 time index), September 26, 2024, organized by Hackster.io  
