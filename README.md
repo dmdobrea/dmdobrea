@@ -42,7 +42,7 @@ I am the Executive Coordinator for the "Research Center for Intelligent Systems 
 *	Editor Bulletin of the Polytechnic Institute of Iași. Electrical Engineering. Power Engineering. Electronics Section, 2023-present.
 
 
-# Activity and obtained practical results
+# Activity and achieved practical results:
 *	[My official YouTube channel](https://www.youtube.com/@DobreaDan)
 *	[My hobbist YouTube channel: i3Drones & iTech for life](https://www.youtube.com/@i3Drones)
 
