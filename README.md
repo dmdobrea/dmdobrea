@@ -1,9 +1,13 @@
 <h1 align="center">Dan-Marius Dobrea</h1>
 
 <p align="center">
-  <b>Intelligent embedded systems · UAVs · Artificial intelligence · Signal processing</b><br>
+  <b>Professor and PhD Supervisor</b><br>
   Faculty of Electronics, Telecommunications and Information Technology<br>
   "Gheorghe Asachi" Technical University of Iași, Romania
+</p>
+
+<p align="center">
+  <i>Intelligent embedded systems · UAVs · Artificial intelligence · Signal processing</i>
 </p>
 
 <p align="center">
@@ -12,11 +16,12 @@
   <a href="https://sciprofiles.com/profile/772358"><img src="https://img.shields.io/badge/SciProfiles-4F5671?style=flat" alt="SciProfiles"></a>
   <a href="https://www.hackster.io/mdobrea"><img src="https://img.shields.io/badge/Hackster.io-2E9FE6?style=flat" alt="Hackster.io"></a>
   <a href="https://www.youtube.com/@DobreaDan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="mailto:mdobrea@etti.tuiasi.ro"><img src="https://img.shields.io/badge/Email-0072C6?style=flat" alt="Email"></a>
 </p>
 
 ## About me
 
-My work spans intelligent embedded systems – autonomous UAVs, edge-AI and IoT devices, biomedical and brain–computer interface applications – and the machine-learning and signal-processing algorithms behind them. I am the Executive Coordinator of **CERFS**, the Research Center for Intelligent Systems and Applied Electronics (*Centrul de cercetare în Sisteme Inteligente și Electronică Aplicată*), a Center of Excellence.
+My work spans intelligent embedded systems – autonomous UAVs, edge-AI and IoT devices, biomedical and brain–computer interface applications – and the machine-learning and signal-processing algorithms behind them. As a PhD supervisor, I guide doctoral research in these areas. I am also the Executive Coordinator of **CERFS**, the Research Center for Intelligent Systems and Applied Electronics (*Centrul de cercetare în Sisteme Inteligente și Electronică Aplicată*), a Center of Excellence.
 
 ## Highlights
 
@@ -66,3 +71,10 @@ Artificial intelligence and machine learning · Signal processing · UAVs and ro
 - [Official YouTube channel](https://www.youtube.com/@DobreaDan)
 - [i3Drones & iTech for life](https://www.youtube.com/@i3Drones), my hobbyist YouTube channel
 - [Hackster.io projects](https://www.hackster.io/mdobrea)
+
+## Contact
+
+For research collaborations, feel free to reach out:
+
+- [mdobrea@etti.tuiasi.ro](mailto:mdobrea@etti.tuiasi.ro)
+- [dan-marius.dobrea@academic.tuiasi.ro](mailto:dan-marius.dobrea@academic.tuiasi.ro)
